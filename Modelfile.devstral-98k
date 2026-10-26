@@ -1,0 +1,2 @@
+FROM huihui_ai/devstral-2-abliterated:123b
+PARAMETER num_ctx 98304
